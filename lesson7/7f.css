@@ -1,0 +1,21 @@
+.mail{
+    color: rgb(96, 95, 95);
+}
+.textbox{
+    width:230px
+}
+.subline{
+    color: rgb(96, 95, 95);
+    width: 300px;
+    font-size: x-small;
+}
+.btn{
+    background-color: rgb(19, 112, 188);
+    color: white;
+    padding-bottom: 5px;
+    padding-top:5px;
+    padding-left: 80px;
+    padding-right: 80px;
+    border:none;
+    border-radius:30px ;
+}
