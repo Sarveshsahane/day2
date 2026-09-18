@@ -1,0 +1,35 @@
+h1 {
+    font-family: Arial;
+    font-size: 50px;
+    font-weight: normal;
+    margin-bottom: 40px;
+}
+
+.location {
+    display: block;
+    width: 565px;
+    padding: 20px 30px;
+    margin-bottom: 12px;
+    border: none;
+    background-color: rgb(245, 245, 245);
+    font-size: 23px;
+    box-sizing: border-box;
+}
+
+.request {
+    background-color: black;
+    color: white;
+    border: none;
+    padding: 20px 35px;
+    font-size: 23px;
+    margin-top: 40px;
+}
+
+.schedule {
+    background-color: rgb(245, 245, 245);
+    color: black;
+    border: none;
+    padding: 20px 35px;
+    font-size: 23px;
+    margin-left: 25px;
+}
