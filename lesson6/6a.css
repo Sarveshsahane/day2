@@ -1,0 +1,10 @@
+.uber-button {
+    background-color: black;
+    color: white;
+    border: none;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 12px;
+    padding-top: 12px;
+    cursor: pointer;
+}
