@@ -1,0 +1,41 @@
+.tweet-box {
+    width: 680px;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    padding: 10px 15px;
+    box-sizing: border-box;
+    box-shadow: 0 1px 5px rgba(0, 0, 0, 0.2);
+}
+
+.input-area {
+    display: flex;
+    align-items: center;
+    flex: 1;
+}
+
+.profile {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+input {
+    border: none;
+    outline: none;
+    margin-left: 18px;
+    font-size: 25px;
+    width: 100%;
+}
+
+button {
+    background-color: rgb(29, 155, 240);
+    color: white;
+    border: none;
+    border-radius: 25px;
+    padding: 12px 25px;
+    font-size: 18px;
+    font-weight: bold;
+    cursor: pointer;
+}
